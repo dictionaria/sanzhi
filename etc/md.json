@@ -1,0 +1,63 @@
+{
+    "language": {
+        "glottocode": "darg1241",
+        "isocode": "dar",
+        "name": "Sanzhi Dargwa"
+    },
+    "authors": [{"name": "Diana Forker", "affiliation": "Friedrich-Schiller-Universität Jena"}],
+    "date_published": "2019",
+    "number": 5,
+    "doi": "10.5281/zenodo.3257634",
+    "properties": {
+        "media_lookup": ["Dargi"],
+        "marker_map": {
+            "gr": "gxx",
+            "ge": "de",
+            "xr": "xn"
+        },
+        "entry_sep": "\\lx ",
+        "entry_id": "lx",
+        "entry_map": {
+            "lcc": "Cyrillic",
+            "nt": "Comment",
+            "mr": "Morphology",
+            "pr": "PoS_Russian",
+            "pl": "Plural_Form",
+            "prs": "Present_Tense",
+            "pst": "Past_Tense",
+            "imp": "Imperative_Form",
+            "obl": "Oblique_Form",
+            "gen": "Genitive_Form"
+        },
+        "entry_custom_order": [
+            "Cyrillic",
+            "PoS_Russian",
+            "Variant_Form",
+            "Comment",
+            "Morphology",
+            "Plural_Form",
+            "Present_Tense",
+            "Past_Tense",
+            "Imperative_Form",
+            "Oblique_Form"
+        ],
+        "sense_map": {
+            "gxx": "alt_translation1"
+        },
+        "example_map": {
+            "xc": "original_script"
+        },
+        "metalanguages": {
+            "gxx": "Russian"
+        },
+        "labels": {
+            "gen": "Genitive",
+            "imp": "Imperative",
+            "obl": "Oblique",
+            "pl": "Plural",
+            "pr": "Part of Speech (Russian)",
+            "xc": "Cyrillic Transcript"
+        },
+        "custom_fields": ["Cyrillic", "Russian"]
+    }
+}

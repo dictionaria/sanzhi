@@ -1,4 +1,4 @@
-ID,Language_ID,Primary_Text,Analyzed_Word,Gloss,Translated_Text,Meta_Language_ID,Comment,Media_IDs,Sense_IDs,alt_translation2,original_script
+ID,Language_ID,Primary_Text,Analyzed_Word,Gloss,Translated_Text,Meta_Language_ID,Comment,Media_IDs,Sense_IDs,alt_translation1,original_script
 XV000001,dar,Misa buca!,,,Shut your mouth!,,,,SN000002 ; SN003274,Рот держи!,Миса буца!
 XV000002,dar,"Dam čaʁir dičːaqid, a at ce dičːaqitːe?",,,"I like wine, and what do you like?",,,d7f5be7269c8e1f45270b1451a80ebec,SN000005,"Я вино люблю, а ты что любишь?","Дам чагъир диччахъид, а ат це диччахъитте?"
 XV000003,dar,Dam ričːaqid dila aba.,,,I love my mother.,,,e0611a699fd5c0529a61906f67ad716f,SN000008,Я люблю свою маму.,Дам риччахъид дила аба.
