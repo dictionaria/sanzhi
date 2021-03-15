@@ -17,7 +17,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "git@github.com:dictionaria/sanzhi",
-            "dc:created": "v1.0-7-g340488e"
+            "dc:created": "v1.0-9-g8d75777"
         },
         {
             "rdf:type": "prov:Entity",

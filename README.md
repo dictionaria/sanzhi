@@ -3,11 +3,11 @@
 > by Diana Forker
 
 This repository contains the data underlying the published version of the dictionary
-at [Dictionaria](https://dictionaria.clld.org/contributions/sanzhi) as [CLDF](https://cldf.clld.org) 
-[Dictionary](cldf) 
+at [Dictionaria](https://dictionaria.clld.org/contributions/sanzhi) as [CLDF](https://cldf.clld.org)
+[Dictionary](cldf)
 [![CLDF validation](https://github.com/dictionaria/sanzhi/workflows/CLDF-validation/badge.svg)](https://github.com/dictionaria/sanzhi/actions?query=workflow%3ACLDF-validation)
 
-Releases of this repository are archived with and accessible through 
+Releases of this repository are archived with and accessible through
 [ZENODO](https://zenodo.org/communities/dictionaria) and the latest release
 is published on the [Dictionaria website](https://dictionaria.clld.org).
 
@@ -27,7 +27,7 @@ The village of Sanzhi was surrounded by terrace fields that have been used for c
 Sanzhi people are Sunni Muslims and have been influenced by neighboring Daghestanian people (e.g. Lak, various Lezgic communities) and Turkic people with Persian and Arabic being important, but geographically more distant cultural reference points.
 
 <h3 id="state-of-research">State of research</h3>
-As an unwritten language there is no long tradition of description or analysis. Since 2012 Sanzhi is documented and described in the project “Documenting Dargi languages in Daghestan: Shiri and Sanzhi”, financed by the VW foundation and lead by Diana Forker. Detailed information on the project, pictures, electronic dictionaries, texts, audio recordings and other materials can be found on the project website www.kaukaz.net. The recordings and annotated texts are available via <a href="http://dobes.mpi.nl/projects/shiri_sanzhi/">the DoBeS archive</a>. A glossed and translated corpus (around 45,000 words) can be found at <a href="http://web-corpora.net/SanzhiDargwaCorpus/search/?interface_language=ru">the Corpora of the Russian Federation</a>. A comprehensive grammar and a sketch grammar will be published soon (Forker In Press, accepted[b]). Topics in the morphosyntax of Sanzhi and other aspects of Sanzhi have been treated in Forker (2014; 2016; 2018; 2019a, b, c; accepted[a, b]). A collection of texts with Russian translations and a Sanzhi-Russian and Russian-Sanzhi dictionary is Forker &amp; Gadzhimuradov (2017).
+As an unwritten language there is no long tradition of description or analysis. Since 2012 Sanzhi is documented and described in the project “Documenting Dargi languages in Daghestan: Shiri and Sanzhi”, financed by the VW foundation and lead by Diana Forker. Detailed information on the project, pictures, electronic dictionaries, texts, audio recordings and other materials can be found on the project website www.kaukaz.net. The recordings and annotated texts are available via <a href="https://dobes.mpi.nl/projects/shiri_sanzhi/">the DoBeS archive</a>. A glossed and translated corpus (around 45,000 words) can be found at <a href="https://web-corpora.net/SanzhiDargwaCorpus/search/?interface_language=ru">the Corpora of the Russian Federation</a>. A comprehensive grammar and a sketch grammar will be published soon (Forker In Press, accepted[b]). Topics in the morphosyntax of Sanzhi and other aspects of Sanzhi have been treated in Forker (2014; 2016; 2018; 2019a, b, c; accepted[a, b]). A collection of texts with Russian translations and a Sanzhi-Russian and Russian-Sanzhi dictionary is Forker &amp; Gadzhimuradov (2017).
 
 Standard Dargwa, to which Sanzhi Dargwa is relatively closely related although mutual understanding is normally not possible, is a major language in Daghestan with a certain tradition of writing and research. See Sumbatova (In Press) for a recent overview and references.
 
@@ -66,7 +66,7 @@ Table 1: The vowel inventory
 </tbody>
 </table>
 
-Table 2 displays the consonant inventory. A non-phonemic glottal stop, which is not written, occurs before word-initial non-pharyngealized vowels, e.g. _aba_ [ʔaba] ‘mother’, including vowel-initial words in compounds. In addition to the segments listen in Table 2, the voiceless labiodental fricative [f] is attested in the ideophone _uf b-ik’ʷ-ij_ ‘blow’ (_uf_ <span style="font-feature-settings: 'smcp' on">HPL</span>-say.<span style="font-feature-settings: 'smcp' on">IPFV-INF</span>) and in loan words, mostly from Russian. In older loans it had been replaced with [p].
+Table 2 displays the consonant inventory. A non-phonemic glottal stop, which is not written, occurs before word-initial non-pharyngealized vowels, e.g. _aba_ [ʔaba] ‘mother’, including vowel-initial words in compounds. In addition to the segments listen in Table 2, the voiceless labiodental fricative [f] is attested in the ideophone _uf b-ik’ʷ-ij_ ‘blow’ (_uf_ <span style="font-variant: small-caps">HPL</span>-say.<span style="font-variant: small-caps">IPFV-INF</span>) and in loan words, mostly from Russian. In older loans it had been replaced with [p].
 
 Table 2: The consonant inventory
 <table class="table table-bordered">
@@ -374,7 +374,7 @@ Table 6: Spatial preverbs
 <td><i>sa-</i> ‘in front of’</td>
 </tr>
 <tr>
-<td><i><span style="font-feature-settings: 'smcp' on">gm</span>-i</i>- ‘in, inside’</td>
+<td><i><span style="font-variant: small-caps">gm</span>-i</i>- ‘in, inside’</td>
 <td><i>hitːi</i>- ‘behind, after’</td>
 <td><i>tːura</i>- ‘outside’</td>
 </tr>
@@ -385,7 +385,7 @@ Table 6: Spatial preverbs
 <td colspan="3"><b>Direction preverbs</b>
 </td></tr>
 <tr>
-<td><i><span style="font-feature-settings: 'smcp' on">gm</span></i>- ‘essive’ (no movement)</td>
+<td><i><span style="font-variant: small-caps">gm</span></i>- ‘essive’ (no movement)</td>
 <td><i>Ø</i>- ‘lative’ (to the goal)</td>
 <td><i>r</i>- ‘ablative’ (away from the goal)</td>
 </tr>
@@ -398,14 +398,14 @@ Table 6: Spatial preverbs
 <td><i>sa</i>- ‘to the speaker, hither’</td>
 </tr>
 <tr>
-<td colspan="3"><i><span style="font-feature-settings: 'smcp' on">gm</span>-it</i>- ‘away from the speaker, thither’</td>
+<td colspan="3"><i><span style="font-variant: small-caps">gm</span>-it</i>- ‘away from the speaker, thither’</td>
 </tr>
 <tr>
 <td colspan="3"><p style="visibility: hidden;">-</p></td>
 </tr>
 </table>
 
-All location and direction preverbs are identical to spatial postpositions, spatial adverbials or spatial cases. Spatial preverbs are mostly optional, but there are a number of bound verbal roots for which they are obligatory. Spatial preverbs are most commonly used with verbs denoting movement, position or posture but also with other verbs. In this dictionary, a large part of verbs contain spatial preverbs. The preverbs are always written together with the verbal stem and are thus verbal prefixes. They are nevertheless classified belonging to the lexical class ‘preverb’ (=<span style="font-feature-settings: 'smcp' on">PREV</span>) in the dictionary (see the section on preverbs below).
+All location and direction preverbs are identical to spatial postpositions, spatial adverbials or spatial cases. Spatial preverbs are mostly optional, but there are a number of bound verbal roots for which they are obligatory. Spatial preverbs are most commonly used with verbs denoting movement, position or posture but also with other verbs. In this dictionary, a large part of verbs contain spatial preverbs. The preverbs are always written together with the verbal stem and are thus verbal prefixes. They are nevertheless classified belonging to the lexical class ‘preverb’ (=<span style="font-variant: small-caps">PREV</span>) in the dictionary (see the section on preverbs below).
 
 Sanzhi has many more preverbs with mostly non-spatial meaning. All those other preverbs are used in verbal compounding. Compounding is a very productive way of extending the verbal lexicon. Compound verbs consist of two parts: a first part that can be a noun (often a loan word), adjectival stem (without the suffix _-ce_), ideophone, or bound lexical stem (including verbal stems). The bound lexical stems and the ideophones form a closed class that occurs only in compound verbs and are categorized as ‘preverbs’ (together with the spatial preverbs from Table 6). The second part of compound verbs is a light verb. The most frequent light verbs are _b-iχʷ-ij_ ‘be, become, can’, _b-ik’ʷ-ij_ ‘say’ and _b-arq’-ij_ ‘do’. The verb _b-ik’ʷ-ij_ is widely used in compounds that denote verbs of speech and the production of other sounds, but also in many verbs of movement. 
 
@@ -417,7 +417,7 @@ Compound verbs are written separately in this dictionary. This means that the fi
 <td><p style="visibility: hidden;">-</p></td>
 <td><p style="visibility: hidden;">-</p></td>
 <td>a.</td>
-<td><i>er</i> ‘life’ + <i>b-iχʷ-ij</i> (<span style="font-feature-settings: 'smcp' on">hpl</span>-be.<span style="font-feature-settings: 'smcp' on">pfv-inf</span>)</td>
+<td><i>er</i> ‘life’ + <i>b-iχʷ-ij</i> (<span style="font-variant: small-caps">hpl</span>-be.<span style="font-variant: small-caps">pfv-inf</span>)</td>
 <td>‘live’</td>
 </tr>
 <tr>
@@ -425,7 +425,7 @@ Compound verbs are written separately in this dictionary. This means that the fi
 <td><p style="visibility: hidden;">-</p></td>
 <td><p style="visibility: hidden;">-</p></td>
 <td>b.</td>
-<td><i>sːalam</i> ‘greeting’ + <i>b-ičː-ij</i> (<span style="font-feature-settings: 'smcp' on">n</span>-give.<span style="font-feature-settings: 'smcp' on">pfv-inf</span>)</td>
+<td><i>sːalam</i> ‘greeting’ + <i>b-ičː-ij</i> (<span style="font-variant: small-caps">n</span>-give.<span style="font-variant: small-caps">pfv-inf</span>)</td>
 <td>‘greet’</td>
 </tr>
 <tr>
@@ -433,7 +433,7 @@ Compound verbs are written separately in this dictionary. This means that the fi
 <td><p style="visibility: hidden;">-</p></td>
 <td><p style="visibility: hidden;">-</p></td>
 <td>c.</td>
-<td><i>ʡaˁħ</i> ‘good’ + <i>b-arq’-ij</i> (<span style="font-feature-settings: 'smcp' on">n</span>-do.<span style="font-feature-settings: 'smcp' on">pfv-inf</span>)</td>
+<td><i>ʡaˁħ</i> ‘good’ + <i>b-arq’-ij</i> (<span style="font-variant: small-caps">n</span>-do.<span style="font-variant: small-caps">pfv-inf</span>)</td>
 <td>'improve, correct'</td>
 </tr>
 <tr>
@@ -441,7 +441,7 @@ Compound verbs are written separately in this dictionary. This means that the fi
 <td><p style="visibility: hidden;">-</p></td>
 <td><p style="visibility: hidden;">-</p></td>
 <td>d.</td>
-<td><i>ʡaˁħ</i> ‘good’ + <i>b-iχʷ-ij</i> (<span style="font-feature-settings: 'smcp' on">n</span>-be.<span style="font-feature-settings: 'smcp' on">pfv-inf</span>)</td>
+<td><i>ʡaˁħ</i> ‘good’ + <i>b-iχʷ-ij</i> (<span style="font-variant: small-caps">n</span>-be.<span style="font-variant: small-caps">pfv-inf</span>)</td>
 <td>‘be, become good, get healthy’</td>
 </tr>
 <tr>
@@ -449,7 +449,7 @@ Compound verbs are written separately in this dictionary. This means that the fi
 <td><p style="visibility: hidden;">-</p></td>
 <td><p style="visibility: hidden;">-</p></td>
 <td>e.</td>
-<td><i>qaˁš</i> (ideophone) + <i>k-aʁ-ij</i> (<span style="font-feature-settings: 'smcp' on">down</span>-do.<span style="font-feature-settings: 'smcp' on">pfv-inf</span>)</td>
+<td><i>qaˁš</i> (ideophone) + <i>k-aʁ-ij</i> (<span style="font-variant: small-caps">down</span>-do.<span style="font-variant: small-caps">pfv-inf</span>)</td>
 <td>‘cut off, cut into pieces’</td>
 </tr>
 </table>
@@ -459,7 +459,7 @@ Almost all verbal stems come in pairs that can be treated as expressing the aspe
 
 The morphological structure of verbs in Sanzhi is fairly complex. There are up to five morphemes that can precede the root and up to five that can follow it. These morphemes include first parts of compound verbs and enclitics expressing person, tense, modality and illocutionary force. The root can be followed by up to three suffixes; a derivational suffix for the causative that is directly attached to the root; the other two suffixes express finite and non-finite TAM forms including person agreement for some verb forms. To certain verb forms person or tense markers can be encliticized. There are restrictions on the combinability of markers in the various slots, e.g. TAM forms requiring person suffixes exclude the use of enclitic person or tense markers. 
 
-Sanzhi has gender and person agreement. The two systems are formally and functionally independent. Most of the vowel-initial verbal stems and the two spatial preverbs _b-i-_ ‘in(side)’ and _b-it-_ ‘away from the speaker, thither’ have gender agreement affixes. Furthermore, copulas (see below) have a slot for a gender agreement suffix. The agreement affixes are displayed in Table 3. The same agreement affixes, which can show up as prefixes, infixes and suffixes, occur with all other parts of speech that have gender agreement (<a href="#gender-number-agreement">Section on gender/number agreement</a>). The agreement affix for masculine singular _-w_ is always used when it occurs as a suffix. The same affix is regularly omitted when it occurs as a prefix to a verbal root beginning with _u_, e.g. _ukː-unne=da_ (masc.) vs. _r-ukː-unne=da_ (fem.) (F-eat.<span style="font-feature-settings: 'smcp' on">IPFV-ICVB=1SG</span>) ‘I will eat’. It is optionally omitted when the root starts with i, e.g. _(w-)ik’-ul_ (masc.) vs. _r-ik’-ul_ (<span style="font-feature-settings: 'smcp' on">F</span>-say.<span style="font-feature-settings: 'smcp' on">IPFV-ICVB</span>). In this dictionary, most verbs are given with the agreement prefix _b-_ (neuter singular or third person plural) except for a few verbs for which this agreement prefix could only be used in a very limited number of context. Those few verbs are given in the form of the masculine singular and the entries often contain an example of the feminine singular.
+Sanzhi has gender and person agreement. The two systems are formally and functionally independent. Most of the vowel-initial verbal stems and the two spatial preverbs _b-i-_ ‘in(side)’ and _b-it-_ ‘away from the speaker, thither’ have gender agreement affixes. Furthermore, copulas (see below) have a slot for a gender agreement suffix. The agreement affixes are displayed in Table 3. The same agreement affixes, which can show up as prefixes, infixes and suffixes, occur with all other parts of speech that have gender agreement (<a href="#gender-number-agreement">Section on gender/number agreement</a>). The agreement affix for masculine singular _-w_ is always used when it occurs as a suffix. The same affix is regularly omitted when it occurs as a prefix to a verbal root beginning with _u_, e.g. _ukː-unne=da_ (masc.) vs. _r-ukː-unne=da_ (fem.) (F-eat.<span style="font-variant: small-caps">IPFV-ICVB=1SG</span>) ‘I will eat’. It is optionally omitted when the root starts with i, e.g. _(w-)ik’-ul_ (masc.) vs. _r-ik’-ul_ (<span style="font-variant: small-caps">F</span>-say.<span style="font-variant: small-caps">IPFV-ICVB</span>). In this dictionary, most verbs are given with the agreement prefix _b-_ (neuter singular or third person plural) except for a few verbs for which this agreement prefix could only be used in a very limited number of context. Those few verbs are given in the form of the masculine singular and the entries often contain an example of the feminine singular.
 
 Sanzhi Dargwa has only two indicative synthetic verb forms, but a large number of morphologically complex forms, which make use of the copulas or other auxiliaries.
 
@@ -504,7 +504,7 @@ The class labelled ‘preverbs’ in this dictionary all items which are used in
 <td><p style="visibility: hidden;">-</p></td>
 <td><p style="visibility: hidden;">-</p></td>
 <td>a.</td>
-<td><i>ħaˁħaˁ</i> + <i>b-ikʼ-ʷij</i> (<span style="font-feature-settings: 'smcp' on">hpl</span>-say.<span style="font-feature-settings: 'smcp' on">ipfv-inf</span>)</td>
+<td><i>ħaˁħaˁ</i> + <i>b-ikʼ-ʷij</i> (<span style="font-variant: small-caps">hpl</span>-say.<span style="font-variant: small-caps">ipfv-inf</span>)</td>
 <td>'laugh'</td>
 </tr>
 <tr>
@@ -512,7 +512,7 @@ The class labelled ‘preverbs’ in this dictionary all items which are used in
 <td><p style="visibility: hidden;">-</p></td>
 <td><p style="visibility: hidden;">-</p></td>
 <td>b.</td>
-<td><i>cʼip</i> + <i>či-r-aʁ-ij</i> (<span style="font-feature-settings: 'smcp' on">spr</span>-<span style="font-feature-settings: 'smcp' on">abl</span>-do.<span style="font-feature-settings: 'smcp' on">pfv</span>-<span style="font-feature-settings: 'smcp' on">inf</span>)</td>
+<td><i>cʼip</i> + <i>či-r-aʁ-ij</i> (<span style="font-variant: small-caps">spr</span>-<span style="font-variant: small-caps">abl</span>-do.<span style="font-variant: small-caps">pfv</span>-<span style="font-variant: small-caps">inf</span>)</td>
 <td>‘cut off, chop off’</td>
 </tr>
 <tr>
@@ -520,7 +520,7 @@ The class labelled ‘preverbs’ in this dictionary all items which are used in
 <td><p style="visibility: hidden;">-</p></td>
 <td><p style="visibility: hidden;">-</p></td>
 <td>c.</td>
-<td><i>lakʼ</i> ‘throw’ + <i>b-arq’-ij</i> (<span style="font-feature-settings: 'smcp' on">n</span>-do.<span style="font-feature-settings: 'smcp' on">pfv-inf</span>)</td>
+<td><i>lakʼ</i> ‘throw’ + <i>b-arq’-ij</i> (<span style="font-variant: small-caps">n</span>-do.<span style="font-variant: small-caps">pfv-inf</span>)</td>
 <td>‘throw’</td>
 </tr>
 <tr>
@@ -528,24 +528,24 @@ The class labelled ‘preverbs’ in this dictionary all items which are used in
 <td><p style="visibility: hidden;">-</p></td>
 <td><p style="visibility: hidden;">-</p></td>
 <td>d.</td>
-<td><i>ač</i> ‘open’ + <i>b-arq’-ij</i> (<span style="font-feature-settings: 'smcp' on">n</span>-do.<span style="font-feature-settings: 'smcp' on">pfv-inf</span>)</td>
+<td><i>ač</i> ‘open’ + <i>b-arq’-ij</i> (<span style="font-variant: small-caps">n</span>-do.<span style="font-variant: small-caps">pfv-inf</span>)</td>
 <td>‘open’</td>
 </tr>
 <tr>
 </tr></table>
 <h2 id="lexicon">Lexicon</h2>
 The Sanzhi lexicon is composed of items inherited from Proto-Dargwa and of numerous loans that mostly originate from Turkic, Arabic, Persian, and nowadays form Russian (including all recent international borrowings). Loan words in the dictionary are classified with the semantic domain ‘loans’ (although loan words of course do not form a semantic domain. Since there has been mutual borrowing between Turkic, Arabic, and Persian, it is not easy to establish from which language Sanzhi actually borrowed those words and thus sometimes their ultimate origin and mostly no origin at all is indicated.
-A simple Russian-Sanzhi and Sanzhi-Russian dictionary can be found in Forker &amp; Gadzhimuradov (2017). A preliminary version of the electronic dictionary, which is also the base for this dictionary, can be found <a href="http://www.kaukaz.net/cgi-bin/blosxom.cgi/english/dargwa/dict_exp">here</a>.
+A simple Russian-Sanzhi and Sanzhi-Russian dictionary can be found in Forker &amp; Gadzhimuradov (2017). A preliminary version of the electronic dictionary, which is also the base for this dictionary, can be found <a href="https://www.kaukaz.net/cgi-bin/blosxom.cgi/english/dargwa/dict_exp">here</a>.
 
 <h2 id="the-dictionary"> The dictionary</h2>
 <h3 id="methodology-aims-and-scope">Methodology, aims and scope </h3>
 The dictionary has been prepared as part of the language documentation project “Documenting Dargi languages in Daghestan: Shiri and Sanzhi.” The words have been collected in several ways and in several stages: 
 - by means of other published dictionaries of Daghestanian languages, in particular Khalilov &amp; Comrie (2010), Sumbatova &amp; Lander (2014), Kibrik &amp; Kodzasov (1988; 1990) and the grammar by Sumbatova &amp; Mutalov (2003), van den Berg (2001), which have been used to systematically check Sanzhi equivalents of Russian words and Sanzhi equivalents of words from other Daghestanian languages
-- based all lexemes contained in the <a href="http://web-corpora.net/SanzhiDargwaCorpus/search/?interface_language=ru">glossed Sanzhi corpus</a>.
+- based all lexemes contained in the <a href="https://web-corpora.net/SanzhiDargwaCorpus/search/?interface_language=ru">glossed Sanzhi corpus</a>.
 
 The vast majority of the examples sentences have been elicited specifically for the dictionary because sentences from the corpus would usually be too long and/or too complicated to be used as illustrations of the lexemes. 
 
-All lexemes have been entered into a Lexique Pro dictionary, which is also available through <a href="http://www.kaukaz.net/cgi-bin/blosxom.cgi/english/dargwa/dict_exp">the project website</a>. This dictionary was originally set up by André Müller, who worked as a student assistant in the project in 2013-2014. He set the basis for the dictionary, entered the first lexemes (several hundred) and made the first recordings. His work was then continued by two more student assistants (Teresa Klemm and Felix Anker), the main language assistant Gadzhimurad Gadzhimuradov and the project leader Diana Forker. Diana Forker and Gadzhimurad Gadzhimuradov gathered the data including the example sentences, did the translations into Russian (G. Gadzhimuradov) and English (D. Forker) and entered the data into a spreadsheet table and word files. Diana Forker also checked all entries and edited the final version of the dictionary. Gadzhimurad Gadzhimuradov read aloud all lexemes and many example sentences for the audio recordings of the entries. Teresa Klemm and Felix Anker cut the audio files, entered the audio files and new entries into the Lexique Pro dictionary, checked entries and assisted with the preparation of the Lexique Pro dictionary for dictionaria.
+All lexemes have been entered into a Lexique Pro dictionary, which is also available through <a href="https://www.kaukaz.net/cgi-bin/blosxom.cgi/english/dargwa/dict_exp">the project website</a>. This dictionary was originally set up by André Müller, who worked as a student assistant in the project in 2013-2014. He set the basis for the dictionary, entered the first lexemes (several hundred) and made the first recordings. His work was then continued by two more student assistants (Teresa Klemm and Felix Anker), the main language assistant Gadzhimurad Gadzhimuradov and the project leader Diana Forker. Diana Forker and Gadzhimurad Gadzhimuradov gathered the data including the example sentences, did the translations into Russian (G. Gadzhimuradov) and English (D. Forker) and entered the data into a spreadsheet table and word files. Diana Forker also checked all entries and edited the final version of the dictionary. Gadzhimurad Gadzhimuradov read aloud all lexemes and many example sentences for the audio recordings of the entries. Teresa Klemm and Felix Anker cut the audio files, entered the audio files and new entries into the Lexique Pro dictionary, checked entries and assisted with the preparation of the Lexique Pro dictionary for dictionaria.
 
 This is the first dictionary of a Nakh-Daghestanian language including not only a Russian translation, but also an English translation and both the orthographic representation with Cyrillic letters and the Latin-based transcription used by specialists of Nakh-Daghestanian languages. It can therefore, in principle, be used both by members of the Sanzhi community and by linguists and other researchers. In fact, one of the aims of collecting the Sanzhi lexicon was to produce a simple dictionary for the speech community, which can be found in Forker &amp; Gadzhimuradov (2017). Due to the semantic categorization of many words it is possible to investigate only specific semantic domains. The dictionary can also serve as the basis for investigating in more detail the morphology and morphophonology of Dargwa varieties.
 

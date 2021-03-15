@@ -1,0 +1,29 @@
+{
+    "title": "dictionaria/sanzhi: Sanzhi Dargwa dictionary",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Dictionary",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Diana Forker"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "cldf-datasets"
+        },
+        {
+            "identifier": "clld"
+        },
+        {
+            "identifier": "dictionaria"
+        }
+    ],
+    "upload_type": "dataset",
+    "license": {
+        "id": "CC-BY-4.0"
+    },
+    "description": "Forker, Diana. 2019. Sanzhi Dargwa dictionary. Dictionaria 5. 1-5533. DOI: 10.5281/zenodo.3257634 (Available online at https://dictionaria.clld.org/contributions/sanzhi, Accessed on 2021-02-08.)"
+}
